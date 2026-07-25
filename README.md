@@ -106,7 +106,7 @@ mindset: "Curious. Consistent. Still learning."
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🎨 CSK — UI/UX Case Study</b></summary>
+<summary><b>🎨 SheSafe — UI/UX Case Study</b></summary>
 <br/>
 
 **Category:** UI/UX Design
