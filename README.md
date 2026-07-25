@@ -112,27 +112,33 @@ mindset: "Curious. Consistent. Still learning."
 **Category:** UI/UX Design
 
 **Overview:**
-A modern UI/UX case study designed in Figma for Chennai Super Kings supporters, exploring how fans engage with match content, teams, and community features.
+A modern UI/UX case study designed in Figma for **SheSafe**, a women's travel safety mobile application focused on creating a secure, intuitive, and user-centered travel experience through smart route planning, emergency assistance, and live journey tracking.
 
 **Objective:**
-To design an intuitive, visually engaging fan experience by applying a complete UX process — from research to a high-fidelity interactive prototype.
+To design an intuitive, accessible, and visually engaging mobile application that empowers women to travel with confidence by applying a complete UX design process—from user research to a high-fidelity interactive prototype.
 
 **Key Features:**
 - User Research & Personas
-- End-to-end User Journey Mapping
+- End-to-End User Journey Mapping
+- Information Architecture
 - Low-Fidelity Wireframes
-- High-Fidelity Screens
+- High-Fidelity UI Screens
+- Smart Route Planning
+- Live Journey Tracking
+- One-Tap SOS Emergency Assistance
+- Trusted Contact Management
+- Nearby Safe Places
+- Community Incident Reporting
 - Cohesive Design System
 - Interactive Prototype
-- Responsive Design across devices
-- Documented UX Decisions
+- Accessibility-Focused Design
 
-**Tech Stack:** `Figma` `Design Systems` `Prototyping`
+**Tech Stack:** `Figma` `Design Systems` `Auto Layout` `Components & Variants` `Interactive Prototyping`
 
 **Learning Outcomes:**
-Strengthened my understanding of user-centered design, translating research insights into wireframes, and maintaining visual consistency through a design system.
+Strengthened my understanding of user-centered design by conducting UX research, translating user insights into intuitive wireframes, building a scalable design system, and creating a high-fidelity prototype that addresses a real-world women's travel safety challenge.
 
-**Repository:** *Coming soon*
+**Repository:** https://github.com/harinisri-2024-aia/Shesafe-UI-UX
 
 </details>
 
